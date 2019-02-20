@@ -6,4 +6,4 @@
 https://github.com/apache/commons-csv/raw/master/src/test/resources/perf/worldcitiespop.txt.gz
 
 ## Analysis
-I have tried to analyze this hypothesis, please check the analysis in this notebook
+I have tried to analyze this hypothesis, please find the analysis in this [notebook](https://github.com/yackoa/us_cities_with_english_names/blob/master/thoughts.ipynb)
