@@ -13,5 +13,5 @@ Please download the [notebook](https://github.com/yackoa/us_cities_with_english_
 Alternatively if you don't have [Jupyter](https://jupyter.org/) or [ipython](https://ipython.org/) you can download the [HTML version](https://github.com/yackoa/us_cities_with_english_names/blob/master/thoughts.html) and view it on any browser. ( No guarantees on IE  :stuck_out_tongue_closed_eyes: )
 
 ## TODO
-- Implement the scatter plot over a map of US using Baseamp or Bokeh (+Google Maps)
+- Implement the scatter plot over a map of US using Basemap or Bokeh (+Google Maps)
 - Consider more ways of name matching between city names
