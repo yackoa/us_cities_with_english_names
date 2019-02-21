@@ -6,7 +6,7 @@
 https://github.com/apache/commons-csv/raw/master/src/test/resources/perf/worldcitiespop.txt.gz
 
 ## Analysis
-I have tried to analyze this hypothesis, please find the analysis in this [notebook](https://github.com/yackoa/us_cities_with_english_names/blob/master/thoughts.ipynb)
+I have tried to analyze this hypothesis, please find the complete analysis in this [notebook](https://github.com/yackoa/us_cities_with_english_names/blob/master/thoughts.ipynb)
 
 (Please download the [notebook](https://github.com/yackoa/us_cities_with_english_names/blob/master/thoughts.ipynb) file and view it using jupyter. The reason being, there is a cool infographic GIF which doesn't play on github)
 
