@@ -8,6 +8,7 @@ https://github.com/apache/commons-csv/raw/master/src/test/resources/perf/worldci
 ## Analysis
 I have tried to analyze this hypothesis, please find the complete analysis in this [notebook](https://github.com/yackoa/us_cities_with_english_names/blob/master/thoughts.ipynb)
 
-(Please download the [notebook](https://github.com/yackoa/us_cities_with_english_names/blob/master/thoughts.ipynb) file and view it using jupyter. The reason being, there is a cool infographic GIF which doesn't play on github)
+Please download the [notebook](https://github.com/yackoa/us_cities_with_english_names/blob/master/thoughts.ipynb) file and view it using jupyter notebook on your system so that everything would work perfectly . The reason being, there is a cool infographic GIF which doesn't run on github directly.
 
 Alternatively if you don't have [Jupyter](https://jupyter.org/) or [ipython](https://ipython.org/) you can download the [HTML version](https://github.com/yackoa/us_cities_with_english_names/blob/master/thoughts.html) and view it on any browser. ( No guarantees on IE  :stuck_out_tongue_closed_eyes: )
+
